@@ -1,6 +1,6 @@
 ---
 name: asu-brand
-description: Apply the Asu Capital Partners (ACP) and AG1 brand to any deck, document, chart, LP report, page or file: logo, names, Lora and Google Sans, colours and the chart template.
+description: "Apply the Asu Capital Partners (ACP) and AG1 brand to any deck, document, chart, LP report, page or file: logo, names, Lora and Google Sans, colours and the chart template."
 ---
 
 # Asu Capital Partners and AG1 brand
