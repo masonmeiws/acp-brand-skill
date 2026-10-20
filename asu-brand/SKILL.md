@@ -9,7 +9,6 @@ Use this skill for any material that carries the ACP or AG1 name: decks, documen
 
 Files in this skill:
 - `assets/logos/`: the official logo files. Use them as they are.
-- `references/brand-guidelines.pdf`: the full guidelines with examples. Open it when you need to see an example.
 
 ## Procedure
 

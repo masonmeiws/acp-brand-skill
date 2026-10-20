@@ -18,7 +18,6 @@ Claude on the web, desktop and mobile: download [asu-brand.zip](https://github.c
 
 - `asu-brand/SKILL.md`: the rules.
 - `asu-brand/assets/logos/`: official logo files.
-- `asu-brand/references/brand-guidelines.pdf`: the full guidelines.
 
 ## Use
 
