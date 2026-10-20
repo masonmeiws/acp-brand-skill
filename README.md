@@ -12,7 +12,7 @@ npx skills add masonmeiws/acp-brand-skill
 
 Or copy the `asu-brand` folder into your agent's skills folder, for example `~/.claude/skills/asu-brand`.
 
-Claude on the web, desktop and mobile: download [asu-brand.zip](https://github.com/masonmeiws/acp-brand-skill/releases/latest/download/asu-brand.zip) and upload it in the skills section of Claude settings.
+Claude on the web, desktop and mobile: download [asu-brand.zip](https://github.com/masonmeiws/acp-brand-skill/raw/main/asu-brand.zip) and upload it in the skills section of Claude settings.
 
 ## Contents
 
